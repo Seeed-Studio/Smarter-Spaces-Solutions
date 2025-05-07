@@ -9,4 +9,4 @@ Smarter Spaces Solutions is an open-source initiative aimed at creating unlimite
 
 智能空间解决方案是一个开源项目，旨在为智能空间创造无限场景。专注于养老、儿童友好环境和动物福利等领域，项目利用创新技术重新定义智能空间。
 
-![avatar](https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/blob/main/flowchart%20(2).png?raw=true)
+![avatar](https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/blob/main/flowchart.png?raw=true)
