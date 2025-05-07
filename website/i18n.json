@@ -1,0 +1,30 @@
+{
+  "gettingStarted": {
+    "en": "Getting Started",
+    "zh": "开始"
+  },
+  "features": {
+    "en": "Features",
+    "zh": "特性"
+  },
+  "guide": {
+    "en": "Guide",
+    "zh": "指南"
+  },
+  "intelligentBuilding":{
+    "en": "Intelligent Building",
+    "zh": "智慧建筑"
+  },
+  "smartBuilding":{
+    "en": "Smart Building",
+    "zh": "智能建筑"
+  },
+  "smartHome":{
+    "en": "Smart Home",
+    "zh": "智能家居"
+  },
+  "buildingAutomation":{
+    "en": "Building Automation",
+    "zh": "楼宇自动化"
+  }
+}

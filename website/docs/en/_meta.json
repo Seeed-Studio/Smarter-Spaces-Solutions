@@ -1,0 +1,7 @@
+[
+  {
+    "text": "Updates",
+    "link": "/blog/index",
+    "activeMatch": "^/blog/"
+  }
+]

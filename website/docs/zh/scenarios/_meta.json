@@ -1,0 +1,17 @@
+[
+    {
+        "type": "dir",
+        "name": "intro",
+        "label": "gettingStarted"
+    },
+    {
+        "type": "dir",
+        "name": "smart-building",
+        "label": "smartBuilding"
+    },
+    {
+        "type": "dir",
+        "name": "smart-home",
+        "label": "smartHome"
+    }
+]
