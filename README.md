@@ -9,16 +9,22 @@ Smarter Spaces Solutions is an open-source initiative aimed at creating unlimite
 
 ![avatar](https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/blob/main/flowchart.png?raw=true)
 
-## 方案 (Solutions)
+## Solutions 方案
+
+Solutions collected by area, each covering the problem it solves, what it's composed of, and real-world results.
 
 按领域收录的解决方案，每个方案是要解决的问题 + 方案组成 + 落地效果：
 
-- [养老 Elder Care](./docs/elder-care/)
-- [儿童友好 Child-Friendly](./docs/child-friendly/)
-- [动物福利 Animal Welfare](./docs/animal-welfare/)
+- [Elder Care 养老](./docs/elder-care/)
+- [Child-Friendly 儿童友好](./docs/child-friendly/)
+- [Animal Welfare 动物福利](./docs/animal-welfare/)
+
+For background reading and external reference cases, see [case_study](./case_study/).
 
 参考资料 / 可借鉴的外部案例见 [case_study](./case_study/)。
 
-## 如何参与 (How to Contribute)
+## How to Contribute 如何参与
+
+Two paths: **propose a solution**, or **claim a need published by a maintainer**. See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 两条路径：**提案新方案**，或者**认领维护者发布的需求**。具体步骤见 [CONTRIBUTING.md](./CONTRIBUTING.md)。

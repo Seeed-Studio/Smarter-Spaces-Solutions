@@ -1,6 +1,6 @@
-name: 发布需求 (Publish a Need)
-description: 维护者发布一个还没人做、可以被认领实现的解决方案需求
-title: "[需求] "
+name: "Publish a Need 发布需求"
+description: "Maintainers publish a solution need that hasn't been built yet and can be claimed / 维护者发布一个还没人做、可以被认领实现的解决方案需求"
+title: "[Need 需求] "
 labels:
   - "type:need"
   - "status:open"
@@ -8,7 +8,7 @@ body:
   - type: dropdown
     id: area
     attributes:
-      label: 领域
+      label: "Area 领域"
       options:
         - elder-care 养老
         - child-friendly 儿童友好
@@ -18,14 +18,14 @@ body:
   - type: textarea
     id: scenario
     attributes:
-      label: 场景描述
-      description: 这个需求针对什么场景
+      label: "Scenario 场景描述"
+      description: "What scenario is this need about? / 这个需求针对什么场景"
     validations:
       required: true
   - type: textarea
     id: criteria
     attributes:
-      label: 验收标准
-      description: 完成后应该达到什么效果，怎么判断做完了
+      label: "Acceptance Criteria 验收标准"
+      description: "What does 'done' look like? / 完成后应该达到什么效果，怎么判断做完了"
     validations:
       required: true

@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 讨论 / Discussions
+  - name: "Discussions 讨论"
     url: https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/discussions
-    about: 想法还不成形？先来这里聊聊
+    about: "Idea not fully formed yet? Start here / 想法还不成形？先来这里聊聊"
