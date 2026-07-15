@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 想法与讨论 / Ideas
+    url: https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/discussions/categories/ideas
+    about: 还没想清楚的创意，先来这里聊聊 / Not ready for an issue yet? Discuss it here first.
+  - name: ❓ 问答 / Q&A
+    url: https://github.com/Seeed-Studio/Smarter-Spaces-Solutions/discussions/categories/q-a
+    about: 技术问题、硬件选型咨询 / Technical or hardware-selection questions.
